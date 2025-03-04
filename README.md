@@ -13,3 +13,7 @@ I aspire to work in industries that prioritize strong cybersecurity measures, su
 In the long term, I aim to deepen my expertise in network security infrastructure, firewalls, intrusion detection systems, and risk management. I also plan to obtain industry certifications such as CompTIA Security+ and Certified Information Systems Security Professional (CISSP) to enhance my knowledge and career growth in cybersecurity.
 **Proud Project/Task:**
 Right now, my greatest satisfaction will come from completing this program and earning my certifications.
+# 2025/03/03
+Today marked my first day at the City of Refuge Cybersecurity program. During what I would call our orientation, we had the chance to meet the individuals who will support and guide us throughout the program whether through teaching, providing resources, or assisting with job placement. After discussing the program's expectations, we were given a tour of the campus. It was truly empowering to witness the impact they have on the community.
+
+Personally, it was a lot to take in, and I felt more anxious than usual. My expectations for today were different from the reality of the experience, but I’m grateful for the opportunity to be part of the program. I’m excited to rise to the challenge and hope to make it all the way to graduation.
