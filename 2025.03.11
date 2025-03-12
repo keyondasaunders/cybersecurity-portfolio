@@ -1,0 +1,11 @@
+Today was exciting as we dove into operating systems, virtualization, and binary.
+We started by discussing operating systems and how they serve as the bridge between hardware and software. It was interesting to break down their core functions and see how they manage resources, processes, and security.
+
+Next, we explored virtualization and got hands on with creating a virtual machine. Virtualization is a powerful tool in cybersecurity, allowing us to safely test and experiment without affecting the main system. We also covered the two main types of hypervisors:
+
+Type 1 (Bare-metal) – Runs directly on hardware, commonly used in enterprise environments.
+Type 2 (Hosted) – Runs within an OS, making it more flexible for personal and testing use.
+But the highlight of my day? Learning binary!
+I’ve always been curious about how computers process data, and finally diving into binary (1s and 0s) was incredibly satisfying. Seeing how numbers and characters are represented in a language that machines understand gave me a new appreciation for how everything in computing is built on simple yet powerful logic.
+
+Today reinforced how operating systems, virtualization, and binary are essential for working with Linux, cybersecurity, and IT infrastructure. Virtualization is a game-changer for testing and security, and understanding binary makes me feel like I’m one step closer to thinking like a computer. Excited to keep learning and applying these concepts! 
