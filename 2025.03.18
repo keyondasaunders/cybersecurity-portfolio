@@ -1,0 +1,9 @@
+Today’s focus was on privilege escalation, standard permissions, and the sticky bit in Linux. These topics are essential for understanding system security and access control, especially in cybersecurity and system administration.
+
+Key Takeaways:
+Privilege Escalation: Learned how users can elevate their privileges in a Linux environment and its associated security risks.
+Standard Permissions: Reviewed read, write, and execute permissions for users, groups, and others.
+Sticky Bit: Explored how the sticky bit protects files in shared directories.
+Hands-On Practice: Since I missed part of yesterday’s lesson, I worked independently to create user accounts using CLI commands to reinforce my learning.
+Final Thoughts:
+Understanding permissions and privilege escalation is crucial for security, and today’s session helped me see the importance of proper user access management. Working alone to complete the missed tasks was a great way to ensure I fully grasped the material. Excited to continue building on these skills!
