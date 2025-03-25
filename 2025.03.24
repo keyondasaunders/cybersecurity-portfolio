@@ -1,0 +1,13 @@
+First, let me say—I love binary! There’s something so fascinating about breaking everything down into 1s and 0s and seeing how computers make sense of it all. Today’s session was packed with so much great information, and while some of it was familiar, a lot helped me connect the dots in new ways.
+
+We started by talking about analog vs. digital—something I never really thought about before, but now it makes total sense why digital systems are more reliable and widely used. Then we dove into Unicode, which was cool because I never realized how much effort goes into encoding text from different languages so that computers can interpret them correctly.
+
+Another interesting topic was the Public Switched Telephone System (PSTN)—basically the foundation of all traditional phone networks. It’s crazy to think about how far technology has come from those old systems to modern VoIP and digital communications.
+
+One of my favorite parts of the day (besides binary, of course) was hexadecimal. I’ve seen hex values before, especially with colors in web design, but now I understand how it’s used in computing, like for memory addressing. It’s like a shorthand for binary, which makes it even cooler!
+
+We also covered the OSI model, breaking down the seven layers that handle network communication. I had heard of it before, but now I really understand how each layer plays a role in getting data from one point to another.
+
+We wrapped up with classful addressing, which was interesting to learn about even though it’s mostly outdated. Understanding how Class A, B, and C networks were structured before CIDR helped me see how networking evolved.
+
+Today was packed with information, and I’m still processing a lot of it. But the more I learn about how computers and networks communicate, the more I appreciate the complexity behind even the simplest tasks. I’m excited to keep going deeper into these topics and applying them in real-world scenarios! 
