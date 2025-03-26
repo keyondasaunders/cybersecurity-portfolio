@@ -1,0 +1,16 @@
+Today was rough—information overload is real. We wrapped up Network Fundamentals, and while I know this knowledge is essential, my brain feels completely maxed out. There was a lot to take in, but I’m doing my best to process everything.
+
+Key Topics Covered:
+Different IP Address Classes and the distinction between public vs. private addresses—finally starting to make sense of how networks are structured.
+
+Network Configuration Commands:
+
+ifconfig – Checking and configuring network interfaces.
+
+DHCP Server – How devices obtain IP addresses automatically.
+
+hostname – Viewing and modifying system hostnames.
+
+nslookup – Querying DNS records to troubleshoot domain names.
+
+Today was mentally exhausting, but I know these networking concepts are foundational for cybersecurity and system administration. Right now, everything feels overwhelming, but I’ll take it one step at a time. I just need to review, practice, and reinforce what I’ve learned.
