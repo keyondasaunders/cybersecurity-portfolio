@@ -1,0 +1,53 @@
+Today was one of those days where I felt like my brain was being pushed to its limits—so much networking, troubleshooting, and system administration to take in! While some of it was review, a lot of it helped me piece together how networks actually function and how different tools work together to keep systems running.
+
+Windows vs. Linux Networking – Understanding the Tools
+We started by looking at networking commands in both Windows and Linux, comparing how each operating system handles network configurations.
+
+Windows Networking Commands:
+
+ipconfig – Displays IP addresses, subnet masks, and gateways.
+
+ipconfig /all – A deeper dive into network configurations, showing DNS, DHCP, and MAC addresses.
+
+nslookup – command for checking DNS resolution.
+
+Linux Networking Commands:
+
+ifconfig, ip a, ip, ip r – These commands provide similar functions to ipconfig but offer more control over Linux network interfaces.
+
+nslookup, dig, host – Different ways to perform DNS lookups and troubleshoot issues.
+
+Networking Fundamentals – Making Sense of Connectivity
+One of the most important things I took away today was how IP addresses, DNS, and MAC addresses all work together to ensure smooth network communication.
+
+DNS Servers – These are responsible for mapping domain names (like google.com) to IP addresses, allowing users to browse the internet without memorizing long numerical addresses.
+
+IP Addressing:
+
+IPv4 – The classic dotted decimal format (e.g., 192.168.1.1).
+
+IPv6 – A more advanced format designed to support the growing number of devices (e.g., 2001:db8::ff00:42:8329).
+
+Default Gateway – The router that acts as the bridge between local networks and the internet.
+
+ping & arp Commands – Tools used to check if devices are connected and communicate over the network.
+
+MAC Addresses – The unique physical addresses assigned to network interfaces.
+
+tcpdump – A command-line tool used to capture and analyze network traffic, a skill that’s critical in cybersecurity and network troubleshooting.
+
+System Administration & Troubleshooting – Keeping Systems Running
+Beyond just networking, today was also about understanding how to manage and troubleshoot systems efficiently.
+
+Troubleshooting & Diagnostics:
+
+The Troubleshooting Model – A structured approach to diagnosing issues efficiently instead of randomly trying commands.
+
+YAML – A human-readable format for writing configuration files used in automation tools.
+
+System & Service Management:
+
+Understanding systemd – The system and service manager for modern Linux distributions, handling processes, logging, and automation.
+
+
+Honestly, today was a mental workout. I’m realizing that networking is a huge topic with a ton of moving parts, but I also know that the more I practice, the clearer things will become. Learning all these commands, protocols, and troubleshooting techniques is overwhelming right now, but I know they are foundational skills for cybersecurity and system administration.
