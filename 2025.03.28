@@ -1,0 +1,41 @@
+Today was a comprehensive review session covering a wide range of fundamental topics in computing, Linux, networking, and virtualization.
+
+Computer Components & Storage
+Reviewed the motherboard as the central hub connecting all components.
+
+Discussed different types of storage devices: HDDs (magnetic storage), SSDs (flash memory-based storage), and NVMe drives (high-speed PCIe storage).
+
+Compare BIOS vs. UEFI boot systems and their impact on modern computing.
+
+Examined the difference between 32-bit and 64-bit systems, focusing on RAM limitations and performance.
+
+Explored different storage interfaces, including SCSI, SATA, and NVMe M.2.
+
+Linux Essentials & System Administration
+Practiced essential Linux terminal commands for navigation, file manipulation, and process management.
+
+Compared different shell environments (Bash, Korn, Zsh, Fish).
+
+Reviewed Linux user management, including standard vs. system users and permission structures.
+
+Explored package management tools (APT for Debian-based systems and YUM/DNF for Red Hat-based systems).
+
+Discussed software installation methods: source code compilation vs. precompiled binaries.
+
+Networking Fundamentals
+Reviewed the OSI and TCP/IP models, breaking down their respective layers.
+
+Discussed networking hardware such as NICs, switches, routers, and access points.
+
+Compared various networking cables (twisted pair, coaxial, fiber optic) and their use cases.
+
+Examined the differences between IPv4 and IPv6, including address formatting and private vs. public IPs.
+
+Walked through the DHCP process (DORA: Discover, Offer, Request, Acknowledge) and its role in network configuration.
+
+Practiced network configuration commands on both Windows (ipconfig /all, nslookup) and Linux (ifconfig, ip a, nslookup, dig, host).
+
+Virtualization
+Discussed the role of virtualization in modern computing, including the differences between Type 1 (bare metal) and Type 2 (hosted) hypervisors.
+
+Explored the benefits of virtualization: resource optimization, isolation, cost savings, and disaster recovery.
