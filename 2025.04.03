@@ -1,0 +1,57 @@
+ 2.1 Basic Ethernet
+Ethernet is the standard for wired networking in most environments.
+
+Uses MAC addresses for network device identification.
+
+Operates on Layer 2 (Data Link) and Layer 1 (Physical) of the OSI model.
+
+Ethernet frames contain Source MAC, Destination MAC, Data, and an FCS (Frame Check Sequence) for error detection.
+
+2.2 Copper Cables
+Twisted Pair Cables (UTP/STP): The most common Ethernet cables.
+
+Shielded Twisted Pair (STP): Helps reduce electromagnetic interference (EMI).
+
+Categories: Cat5e, Cat6, Cat6a, Cat7, and Cat8—each supporting different speeds and distances.
+
+Coaxial Cable: Used for broadband internet and cable TV.
+
+2.3 Fiber Optic Cables
+Uses light signals instead of electrical signals.
+
+Faster and supports longer distances than copper cables.
+
+Single-mode fiber (SMF): Used for long-distance communication.
+
+Multi-mode fiber (MMF): Used for shorter distances within buildings.
+
+2.4 Wiring Install
+Understanding TIA/EIA standards for network cable installation.
+
+Straight-through cables connect different types of devices (e.g., PC to switch).
+
+Crossover cables connect similar devices (e.g., switch to switch).
+
+Punch-down blocks used for structured cabling in network rooms.
+
+2.4.1 Wiring Install Addendum
+Proper labeling and documentation are essential in professional network installations.
+
+Importance of cable management for airflow, organization, and troubleshooting.
+
+Compliance with BICSI and ANSI/TIA standards.
+
+Importance of redundancy and cable testing before deployment.
+
+2.6 Cable Troubleshooting
+Common Issues:
+
+Open and short circuits
+
+Crosstalk and EMI
+
+Attenuation (signal loss over distance)
+
+Troubleshooting Tools:
+
+Cable testers: Verify continuity and correct wiring.
