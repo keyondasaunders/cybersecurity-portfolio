@@ -1,0 +1,100 @@
+# Chapter 6.1, 6.2, 6.3, 6.4 Notes
+
+**Reminder:**
+Labs for Chapters 6-8 are due Friday!
+- **Total labs:** 50
+-** Goal is 10 Labs per day**
+
+---
+
+## Rubric (4/28)
+
+- **Lesson 6.1:** Implementation Network Services
+- **Lesson 6.2:** DHCP
+- **Lesson 6.3:** APIPA and SLAAC
+- **Lesson 6.4:** DHCP Relay and Troubleshooting
+
+---
+
+## OSI Model - Focus on Layers 4-7
+
+| Layer | Name | Protocol Data Unit |
+|------|--------------|---------------------|
+| 7 | Application | Payload |
+| 6 | Presentation | |
+| 5 | Session | |
+| 4 | Transport | TCP Segment / UDP Datagram |
+
+---
+
+## Transport Layer Details
+
+### TCP (Transmission Control Protocol)
+- Segment connection
+- **Reliable** with flow control
+- Connection-oriented
+- Handshake process (Three-way handshake)
+- Sequencing and guaranteed delivery
+
+### UDP (User Datagram Protocol)
+- Connectionless
+- No guaranteed delivery
+
+---
+
+## Port Information
+
+- **Port:** Number assigned to a specific process (application or service)
+- Each application is assigned a **unique identification number**
+- Ports identify and communicate with applications running on a host
+- **Found at:** Transport layer of the OSI model
+- Ports ensure data is sent to the correct process:
+- IP address = Find the host
+- Port number = Find the process on the host
+
+### Port Number Types
+
+- **Well-known ports:** 0–1023
+- Most common ports used by TCP/UDP
+- Pre-assigned by Internet Assigned Numbers Authority (**IANA**)
+
+- **Registered ports:** 1024–49151
+- Used for temporary or non-standard assignments
+
+- **Dynamic and Private ports:** 49152–65535
+- **Dynamic:** Assigned as needed
+- **Private:** Assigned numbers different from well-known ports for services
+
+---
+
+## Socket
+
+- Combines host IP address and port bound to a software process
+- Identifies both a host and a service within the host
+- Format: `IP address : port number`
+- Example: `10.4.3.87:23`
+- `10.4.3.87` = IP address
+- `23` = Port number
+
+---
+
+## TCP Detailed Notes
+
+- **Transmission Control Protocol**
+- **Connection-oriented**
+- Before transmitting, TCP ensures a session is established
+- Session establishment uses a **three-step process**:
+- Called a **three-way handshake**
+- Provides **guaranteed delivery**
+- Data is broken down into **segments**
+
+## Completed Labs 
+-6.1.7
+-6.1.8
+-6.2.5
+-6.2.6
+-6.2.7
+-6.2.8
+-6.2.10
+-6.3.4
+-6.3.5
