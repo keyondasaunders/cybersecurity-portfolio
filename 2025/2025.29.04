@@ -1,0 +1,86 @@
+## Chapter 6.5: Domain Naming System (DNS)
+
+
+
+### Overview
+
+- Maps host names to IP addresses
+
+- Hierarchical and distributed database
+
+
+
+### Components
+
+- **Namespace**: Entire collection of computer names and IPs
+
+- **Name Server**: Stores domain info in a hierarchy
+
+
+
+### Why Host Names?
+
+- Easier for users to remember
+
+- Character-based vs numeric IPs
+
+
+
+---
+
+
+
+## DNS Hierarchy
+
+
+
+### Structure
+
+- Root -> TLD (.com, .edu, .org, etc.) -> SLD (second level domain) -> Subdomains
+
+- Resembles an upside-down tree
+
+
+
+### FQDN (Fully Qualified Domain Name)
+
+- Example: `www.amazon.com`
+
+  - Host Name: www
+
+  - Domain Name: amazon
+
+  - TLD: .com
+
+
+
+### Naming Rules
+
+1. Hostname must be unique within domain
+
+2. Labels separated by periods
+
+3. Max length: 253 characters (63 per label)
+
+4. DNS is not case-sensitive
+
+
+
+---
+
+
+
+## **Labs Reminder**
+
+**Chapters 6–8 Labs (Total: 50 labs) are due!**  
+
+Make sure all labs are completed and submitted by the due date.
+**Completed**
+- 6.4.4
+- 6.4.5
+- 6.5.11
+- 6.5.12
+- 6.5.13
+- 6.5.14
+- 6.6.5
+- 6.6.6
